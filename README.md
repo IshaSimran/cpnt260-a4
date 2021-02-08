@@ -7,7 +7,9 @@ By Isha Simran
 
 The main goal of this site was to create a website for a client who is running an independent fitness program/business, and needs to be able to easily book new clients and interact with them. This website is an extention of the previous assignment with changes made.
 
-Primary change made to site has been done by removing the image gallery, and replacing it with a hero section.The hero section contains the formpspree used, and the googlemaps integration is just above the footer and below the hero section. 
+Primary change made to site has been done by removing the image gallery, and replacing it with a hero section.The hero section contains the formpspree used, and the googlemaps integration is just above the footer and below the hero section.
+
+I want to clearly state the main issue I had during this assignment was achieving a responsive hero image. It also does not appear on mobile screens however I hope that will still meet the requirement for the assinment
 
 ## Attributions
 
