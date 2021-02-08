@@ -87,6 +87,7 @@ nav ul {
 }
 
 /***** Hero Section *****/
+/***** Again I have been struggling with mkaing my hero section entirely responsive the text is but the image is not*****/
 
 .hero-image {
   position: absolute;
@@ -121,7 +122,7 @@ body {
   font-family: 'Fjalla One', sans-serif;
   color: orangered;
   text-align: center;
-  margin: 0.625rem;
+  margin: 5rem;
 }
 
 .hero-title {
@@ -151,7 +152,7 @@ body {
   border: none;
   border-radius: 1rem;
   box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-  background-color: lightsalmon;
+  background-color: orangered;
   margin: 1rem;
   padding: 1rem 1rem 1rem 1rem;
   width: auto;
