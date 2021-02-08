@@ -9,7 +9,7 @@ The main goal of this site was to create a website for a client who is running a
 
 Primary change made to site has been done by removing the image gallery, and replacing it with a hero section.The hero section contains the formpspree used, and the googlemaps integration is just above the footer and below the hero section.
 
-I want to clearly state the main issue I had during this assignment was achieving a responsive hero image. It also does not appear on mobile screens however I hope that will still meet the requirement for the assinment.
+I want to clearly state the main issue I had during this assignment was achieving a responsive hero image. It does stretch but I am working on my responsive skills. I wasn't able to get it to appear on mobile screens at first but I finally managed to achieve it by adding a margin to the hero content.
 
 ## Attributions
 
