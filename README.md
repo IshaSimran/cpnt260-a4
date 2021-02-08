@@ -1,9 +1,9 @@
 # CPNT260-A4
 By Isha Simran
 
-- [GH Pages Site]()
+- [GH Pages Site](https://ishasimran.github.io/cpnt260-a4/)
 
-- [GitHub Repo]()
+- [GitHub Repo](https://github.com/IshaSimran/cpnt260-a4)
 
 The main goal of this site was to create a website for a client who is running an independent fitness program/business, and needs to be able to easily book new clients and interact with them. This website is an extention of the previous assignment with changes made.
 
