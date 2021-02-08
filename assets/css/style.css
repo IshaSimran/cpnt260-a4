@@ -162,6 +162,7 @@ body {
 @media screen and (max-width: 600px) {
   .hero {
     font-size: 1rem;
+    width: 100%;
   }
 }
 /***** Contact Session *****/
