@@ -38,6 +38,10 @@ I want to clearly state the main issue I had during this assignment was achievin
 
 ### Syntax
 
-- [Formspree used]()
+- [Formspree used](https://formspree.io/)
 
-- [Formspree Terms of Use]()
+- [Formspree Terms of Use](https://formspree.io/legal/terms-of-service)
+
+- [Google Map Location Used](https://www.google.com/maps/place/Calgary+Tower/@51.044308,-114.0652801,17z/data=!3m1!4b1!4m5!3m4!1s0x53716ffd8b6c3227:0xf1592407377b9781!8m2!3d51.044308!4d-114.0630914) Calgary Tower
+
+- [Google Maps Terms of Use](https://cloud.google.com/maps-platform/terms)
